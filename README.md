@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shlok-shinde1
 - 👀 I’m interested in mechanical/electrical/computer engineering
-- 🌱 I’m currently a senior in high school
+- 🌱 I’m currently a freshman at The University of Tennessee at Knoxville
 - 💞️ I’m looking to collaborate on machine learning and AI projects using Python
 - 📫 How to reach me: shindeshlok4@gmail.com
 
